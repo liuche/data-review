@@ -23,7 +23,7 @@
 
 <table>
   <tr>
-    <td>Measurement Description</td>
+    <td>Measurement Description (including range of values collected)</td>
     <td>Data Collection Category</td>
     <td>Tracking Bug #</td>
   </tr>
